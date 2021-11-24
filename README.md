@@ -1,7 +1,7 @@
 # GTPS-HTTP
 - thanks for use this. if you want recode, republish please mention [FrenzySG/FrenzY8](https://github.com/FrenzY8) and read the License
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/803549282942058534.png">
+<img src="https://discord.c99.nl/widget/theme-3/833213256155922432.png">
 <div align="center">
 
 <p align="center">
@@ -19,9 +19,7 @@
 - ```yarn install```
 
 # To be done List
-- Fixed the bugs
-- Create a new design
-- Remove useless ones.
+- Nothing.
 
 # Support me
 - [Get me on Instagram](https://instagram.com/frenzy.666)
