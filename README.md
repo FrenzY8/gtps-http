@@ -1,4 +1,4 @@
-# nama file
+# GTPS-HTTP
 - thanks for use this. if you want recode, republish please mention [FrenzySG/FrenzY8](https://github.com/FrenzY8) and read the License
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-2/803549282942058534.png">
