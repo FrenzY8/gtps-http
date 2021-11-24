@@ -3,7 +3,12 @@
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/833213256155922432.png">
 <div align="center">
-
+  
+# Preview 
+<p align="center">
+<img src="./IMG_20211124_111844.jpg">
+<div align="center">
+  
 <p align="center">
 <img src="./images (11).jpeg"/>
 <a align="center">
