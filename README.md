@@ -14,10 +14,10 @@ edit files on ```config.json```
     "MoveText": "HTTP Public & Free Edit by FrenzySG"
 }
 ```
-  ```ProtectBy``` replace with your name
-  ```Discord``` your discord
-  ```Background_Color``` http bg color
-  ```MoveText``` the move text
+  - ```ProtectBy``` replace with your name
+  - ```Discord``` your discord
+  - ```Background_Color``` http bg color
+  - ```MoveText``` the move text
 
 # Run the Program
 - ```node index.js```
