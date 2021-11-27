@@ -4,6 +4,21 @@
 <img src="https://discord.c99.nl/widget/theme-3/833213256155922432.png">
 <div align="center">
   
+# Editing the files
+edit files on ```config.json```
+```json
+  {
+    "ProtectBy": "Your_Name",
+    "Discord": "Your_Discord_And_Tag",
+    "Background_Color": "yellow",
+    "MoveText": "HTTP Public & Free Edit by FrenzySG"
+}
+```
+  ```ProtectBy``` replace with your name
+  ```Discord``` your discord
+  ```Background_Color``` http bg color
+  ```MoveText``` the move text
+
 # Run the Program
 - ```node index.js```
 - ```yarn build```
